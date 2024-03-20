@@ -2,7 +2,6 @@
 layout: page
 ---
 
-# About Me
 
 <img src="https://i.postimg.cc/wj1B6fqd/Wenbin-Wang.png" class="floatpic" width="360" height="480">
 
