@@ -1,5 +1,5 @@
 ---
 layout:page
-permalink: /about_me/index.html
+permalink: /teams/index.html
 title: About me
 ---
