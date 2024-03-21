@@ -1,5 +1,5 @@
 ---
-layout:page
+layout: page
 permalink: /softwares/index.html
-title:softwares
+title: Softwares
 ---
