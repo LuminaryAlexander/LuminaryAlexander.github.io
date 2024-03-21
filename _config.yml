@@ -10,18 +10,18 @@ owner:
   avatar: Wenbin.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: wangwb2023@shanghaitech.edu.cn
-  # cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv: https://maifile.cn/est/a65fb0a8eb8578/pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  # twitter: lancecai2002
+  twitter: LuminaryAl13281
   github: LuminaryAlexander
-  # csdn:123
+  csdn: 2402_83725027?type=lately
   # linkedin: hanlincai
   # scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  # bilibili: 594030035
+  bilibili: 3546649655773316
   researchgate: https://www.researchgate.net/profile/Wang-Wenbin-12
-  # zhihu: https://www.zhihu.com/people/chlire
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
+  zhihu: https://www.zhihu.com/people/37-88-97-48-34
+  facebook: luminaryalexacder
+  instagram: luminaryalexander
   # lastfm:
   # tumblr:
   # For Google Authorship https://plus.google.com/authorship
@@ -37,8 +37,10 @@ owner:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About Me
+  - title: Home
     url: /
+  - title: About Me
+    url: /about_me/
   # - title: Teams
     # url: /teams/
   - title: Research
