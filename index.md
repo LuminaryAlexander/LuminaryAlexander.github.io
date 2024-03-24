@@ -45,7 +45,7 @@ My current research focuses on the mathematical (especially, computational and s
 
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/luminaryalexander/public-coffee-hours" style="width:1020px;max-height:640px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/luminaryalexander/public-coffee-hours" style="max-width:100%;max-height:640px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
