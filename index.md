@@ -41,9 +41,11 @@ My current research focuses on the mathematical (especially, computational and s
 
 **Mar 2024:** I have set up the [public-coffee-hours](https://calendly.com/luminaryalexander/public-coffee-hours). Welcome to chat with me!
 
+(This may take a while to load. Try refreshing the page if it's not loading.)
+
 <!-- Calendly inline widget begin -->
 
-<div class="calendly-inline-widget" data-url="https://calendly.com/luminaryalexander/public-coffee-hours" style="min-width:320px;height:630px;"></div>
+<div class="calendly-inline-widget" data-url="https://calendly.com/luminaryalexander/public-coffee-hours" style="min-width:630px;height:320px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 <!-- Calendly inline widget end -->
 
