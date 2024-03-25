@@ -7,7 +7,7 @@ layout: page
 
 Here is **Wenbin Wang (Wendell Wang, 王文彬)**.
 
-I am a first-year master student in Computer Science and Technology with the School of Information Science and Technology at ShanghaiTech University, Shanghai, China. I am fortunate to join [Data Science And Intelligence Lab(DSAIL)](https://www.ncvxopt.com/){: style="color: blue"} at ShanghaiTech University from 2023, supervised by [Prof. Ziping Zhao](https://www.zipingzhao.com){: style="color: blue"}. Before this, I received a bachelor of economics degree in Economic Statistics from the College of Economics and Management, Huazhong Agricultural University, Wuhan, China in 2022. During my undergraduate study, I was fortunate to work with [Prof. Zeyu Zhang](https://mari.hzau.edu.cn/people/people/Zhang_Zeyu.htm){: style="color: blue"} on macro-economics.
+I am a first-year master student in Computer Science and Technology with the School of Information Science and Technology at ShanghaiTech University, Shanghai, China. I am fortunate to join [Data Science And Intelligence Lab (DSAIL)](https://www.ncvxopt.com/){: style="color: blue"} at ShanghaiTech University from 2023, supervised by [Prof. Ziping Zhao](https://www.zipingzhao.com){: style="color: blue"}. Before this, I received a bachelor of economics degree in Economic Statistics from the College of Economics and Management, Huazhong Agricultural University, Wuhan, China in 2022. During my undergraduate study, I was fortunate to work with [Prof. Zeyu Zhang](https://mari.hzau.edu.cn/people/people/Zhang_Zeyu.htm){: style="color: blue"} on macro-economics.
 
 
 Now, my research interests lie in Optimization, Matrix Sensing. I am also interested in Reinforcement Learning, Computer Vision, etc.
