@@ -9,4 +9,5 @@ title: About me
 - **September, 2018 - June, 2022**
 
   Huazhong Agricultural University
+  
   College of Economics and Management
