@@ -6,6 +6,8 @@ title: Awards
 
 ## Grad
 
+<br>
+
 ## Undergrad
 
 - **2022/06**, I was named an outstanding graduate of the School of Economics and 
