@@ -21,4 +21,4 @@ title: About me
   
   College of Economics and Management
 
- Bachelor of Economics in Economic Statistics
+  Bachelor of Economics in Economic Statistics
