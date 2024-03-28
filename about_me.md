@@ -25,3 +25,7 @@ title: About me
 
 
 ## Skills
+
+- **C/C++**
+- **Matlab**
+- **Python**
