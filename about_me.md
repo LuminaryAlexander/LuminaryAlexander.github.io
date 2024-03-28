@@ -29,3 +29,4 @@ title: About me
 - **C/C++**
 - **Matlab**
 - **Python**
+- **CET-6**
