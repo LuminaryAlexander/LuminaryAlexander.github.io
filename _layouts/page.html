@@ -51,7 +51,30 @@
   </article>
 </div><!-- /#index -->
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5t83cjyb8x5&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+<head>
+    <style>
+        .maps-container {
+            display: flex;
+            justify-content: space-between;
+            width: 80%; /* 设置地图容器的宽度为网页宽度的80% */
+            margin: 0 auto; /* 居中显示地图容器 */
+        }
+        .map {
+            flex: 1; /* 每个地图元素占用等量的空间 */
+            padding: 10px; /* 添加一些内边距 */
+        }
+    </style>
+</head>
+<body>
+    <div class="maps-container">
+        <div class="map">
+            <script type="text/javascript" src="//rf.revolvermaps.com/0/0/6.js?i=5t83cjyb8x5&amp;m=7&amp;c=e63100&amp;cr1=ffffff&amp;f=arial&amp;l=0&amp;bv=90&amp;lx=-420&amp;ly=420&amp;hi=20&amp;he=7&amp;hc=a8ddff&amp;rs=80" async="async"></script>
+        </div>
+        <div class="map">
+            <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=63lt3u27mRTSNL9Daqqqamyu4oYVlab8Wji73yBoEHk&cl=ffffff&w=a"></script>
+        </div>
+    </div>
+</body>
 
 <div class="footer-wrap">
   <footer>
