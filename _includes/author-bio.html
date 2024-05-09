@@ -4,79 +4,88 @@
 
 
 <style>
-.icon-link img, .icon-link i {
-    width: 30px; /* 调整为所需的图标大小 */
-    height: 30px; /* 调整为所需的图标大小 */
+.icon-link-1 img, .icon-link-1 i {
+    width: 30px;  /* 图标大小 */
+    height: 30px;  /* 图标大小 */
 }
-.icon-link {
-    font-size: 20px; /* 调整文字大小 */
+.icon-link-1 {
+    font-size: 20px; /* 文字大小 */
+}
+
+/* 定义第二个图标类 */
+.icon-link-2 img, .icon-link-2 i {
+    width: 26px;  /* 图标大小 */
+    height: 26px;  /* 图标大小 */
+}
+.icon-link-2 {
+    font-size: 20px; /* 文字大小 */
 }
 </style>
 
 <p>{{ site.owner.bio }}</p>
 
 {% if site.owner.email %}
-<p><a class="icon-link" href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>
+<p><a class="icon-link-1" href="mailto:{{ site.owner.email }}" target="_blank"><i class="icon-mail"></i> Email</a></p>
 {% endif %}
 
 {% if site.owner.cv %}
-<p><a class="icon-link" href="{{ site.owner.cv }}"><img src="https://LuminaryAlexander.github.io/images/logo/icons8-cv-100.png"></i> My CV</a></p>
+<p><a class="icon-link-2" href="{{ site.owner.cv }}"><img src="https://LuminaryAlexander.github.io/images/logo/icons8-cv-100.png"></i> My CV</a></p>
 {% endif %}
 
 {% if site.owner.twitter %}
-<p><a class="icon-link" href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>
+<p><a class="icon-link-1" href="https://twitter.com/{{ site.owner.twitter }}"><i class="icon-twitter"></i> Twitter</a></p>
 {% endif %}
 
 {% if site.owner.facebook %}
-<p><a class="icon-link" href="https://facebook.com/{{ site.owner.facebook }}"><i class="icon-facebook"></i> Facebook</a></p>
+<p><a class="icon-link-1" href="https://facebook.com/{{ site.owner.facebook }}"><i class="icon-facebook"></i> Facebook</a></p>
 {% endif %}
 
 {% if site.owner.google_plus %}
-<p><a class="icon-link" href="{{ site.owner.google_plus }}"><i class="icon-google-plus"></i> Google+</a></p>
+<p><a class="icon-link-1" href="{{ site.owner.google_plus }}"><i class="icon-google-plus"></i> Google+</a></p>
 {% endif %}
 
 {% if site.owner.linkedin %}
-<p><a class="icon-link" href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="icon-linkedin"></i> LinkedIn</a></p>
+<p><a class="icon-link-1" href="https://linkedin.com/in/{{ site.owner.linkedin }}"><i class="icon-linkedin"></i> LinkedIn</a></p>
 {% endif %}
 
 {% if site.owner.instagram %}
-<p><a class="icon-link" href="https://instagram.com/{{ site.owner.instagram }}"><i class="icon-instagram"></i> Instagram</a></p>
+<p><a class="icon-link-1" href="https://instagram.com/{{ site.owner.instagram }}"><i class="icon-instagram"></i> Instagram</a></p>
 {% endif %}
 
 {% if site.owner.github %}
-<p><a class="icon-link" href="https://github.com/{{ site.owner.github }}"><i class="icon-github"></i> Github</a></p>
+<p><a class="icon-link-1" href="https://github.com/{{ site.owner.github }}"><i class="icon-github"></i> Github</a></p>
 {% endif %}
 
 {% if site.owner.csdn %}
-<p><a class="icon-link" href="https://blog.csdn.net/{{ site.owner.csdn }}"><img src="https://img2.imgtp.com/2024/03/21/A67qimQd.png"></i> CSDN</a></p>
+<p><a class="icon-link-2" href="https://blog.csdn.net/{{ site.owner.csdn }}"><img src="https://img2.imgtp.com/2024/03/21/A67qimQd.png"></i> CSDN</a></p>
 {% endif %}
 
 {% if site.owner.lastfm %}
-<p><a class="icon-link" href="https://lastfm.com/{{ site.owner.lastfm }}"><i class="icon-lastfm"></i> Last.fm</a></p>
+<p><a class="icon-link-1" href="https://lastfm.com/{{ site.owner.lastfm }}"><i class="icon-lastfm"></i> Last.fm</a></p>
 {% endif %}
 
 {% if site.owner.tumblr %}
-<p><a class="icon-link" href="https://{{ site.owner.tumblr }}.tumblr.com"><i class="icon-tumblr"></i> Tumblr</a></p>
+<p><a class="icon-link-1" href="https://{{ site.owner.tumblr }}.tumblr.com"><i class="icon-tumblr"></i> Tumblr</a></p>
 {% endif %}
 
 {% if site.owner.scholar %}
-<p><a class="icon-link" href="{{ site.owner.scholar }}"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></p>
+<p><a class="icon-link-1" href="{{ site.owner.scholar }}"><i class="ai ai-google-scholar-square"></i> Google Scholar</a></p>
 {% endif %}
 
 {% if site.owner.researchgate %}
-<p><a class="icon-link" href="{{ site.owner.researchgate }}"><img src="https://caihanlin.com/images/logo/icons8-rg.png"></i> ResearchGate</a></p>
+<p><a class="icon-link-2" href="{{ site.owner.researchgate }}"><img src="https://caihanlin.com/images/logo/icons8-rg.png"></i> ResearchGate</a></p>
 {% endif %}
 
 {% if site.owner.zhihu %}
-<p><a class="icon-link" href="{{ site.owner.zhihu }}"><img src="https://caihanlin.com/images/logo/icons8-zhihu-96.png"></i> Zhihu</a></p>
+<p><a class="icon-link-2" href="{{ site.owner.zhihu }}"><img src="https://caihanlin.com/images/logo/icons8-zhihu-96.png"></i> Zhihu</a></p>
 {% endif %}
 
 {% if site.owner.bilibili %}
-<p><a class="icon-link" href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png"></i> Bilibili</a></p>
+<p><a class="icon-link-2" href="https://space.bilibili.com/{{ site.owner.bilibili }}"><img src="https://caihanlin.com/images/logo/icons8-retro-tv-100.png"></i> Bilibili</a></p>
 {% endif %}
 
 {% if site.owner.wechat %}
-<p><a class="icon-link" href="{{ site.owner.wechat }}"><img src="https://img2.imgtp.com/2024/04/19/sviBkUXE.png"></i> Wechat</a></p>
+<p><a class="icon-link-2" href="{{ site.owner.wechat }}"><img src="https://img2.imgtp.com/2024/04/19/sviBkUXE.png"></i> Wechat</a></p>
 {% endif %}
 
 
