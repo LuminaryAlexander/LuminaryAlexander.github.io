@@ -17,17 +17,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I am actively looking for PhD position to start in 2026 Fall. Contact me if you have any leads!**
 
----
-
-## Research Interests
-- Optimization, Statistics
-- Signal Processing, Machine Learning
-- Artificial Intelligence, Reinforcement Learning
-- Computer Vision, Robotics
-- Compressive Sensing
-
-
-My current research focuses on the mathematical (especially, computational and statistical) foundations of data science, signal processing, and machine learning. My interests are on the **Machine Learning** and its applications in **Industry**. In a word, advanced technologies like ML and CV positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 ---
 
@@ -38,6 +27,21 @@ My current research focuses on the mathematical (especially, computational and s
 
 
 ## Featured Publications
+
+
+---
+
+
+
+## Research Interests
+- Optimization, Statistics
+- Signal Processing, Machine Learning
+- Artificial Intelligence, Reinforcement Learning
+- Computer Vision, Robotics
+- Compressive Sensing
+
+
+My current research focuses on the mathematical (especially, computational and statistical) foundations of data science, signal processing, and machine learning. My interests are on the **Machine Learning** and its applications in **Industry**. In a word, advanced technologies like ML and CV positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
 
 ---
