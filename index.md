@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<img src="https://img2.imgtp.com/2024/05/18/DwJDSbc7.webp" class="floatpic" width="560" height="640">
+<img src="https://img2.imgtp.com/2024/05/18/DwJDSbc7.webp" class="floatpic" width="1024" height="1024">
 
 Here is **Wenbin Wang (Wendell Wang, 王文彬)**.
 
