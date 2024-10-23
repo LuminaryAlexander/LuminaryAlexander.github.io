@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<img src="https://luminaryalexander.github.io/images/Portrait.webp" class="floatpic" width="640" height="640">
+<img src="https://luminaryalexander.github.io/images/WenbinWang.jpg" class="floatpic" width="640" height="640">
 
 Here is **Wenbin Wang (Wendell Wang, 王文彬)**.
 
