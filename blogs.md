@@ -15,6 +15,6 @@ title: Blogs
 
 <br>
 
-{% include disqus.html %} 
+
 
 <br>
